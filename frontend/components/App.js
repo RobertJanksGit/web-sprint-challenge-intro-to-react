@@ -70,5 +70,5 @@ function App() {
 
 export default App;
 
-// ❗ DO NOT CHANGE THE CODE BELOW
+// ❗ DO NOT CHANGE THE CODE BELOWs
 if (typeof module !== "undefined" && module.exports) module.exports = App;
